@@ -1,0 +1,13 @@
+{
+  "name": "Portfolio Enrollment Status Page",
+  "version": "1.0",
+  "blockDeviceUntilRequiredAppsInstalled": true,
+  "allowResetOnFailure": true,
+  "allowUseOnFailure": false,
+  "timeoutMinutes": 60,
+  "requiredApplicationCategories": [
+    "security",
+    "management",
+    "productivity-core"
+  ]
+}
