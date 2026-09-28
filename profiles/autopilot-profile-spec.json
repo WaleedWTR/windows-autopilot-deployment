@@ -1,0 +1,16 @@
+{
+  "name": "Portfolio Windows 11 User-Driven Profile",
+  "version": "1.0",
+  "deploymentMode": "userDriven",
+  "joinType": "microsoftEntraJoined",
+  "settings": {
+    "hidePrivacySettings": true,
+    "hideEula": true,
+    "userAccountType": "standard",
+    "deviceNameTemplate": "WTR-%SERIAL%"
+  },
+  "assignment": {
+    "pilotRing": "autopilot-pilot",
+    "productionRing": "autopilot-production"
+  }
+}
