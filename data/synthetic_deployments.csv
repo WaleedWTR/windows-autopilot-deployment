@@ -1,0 +1,8 @@
+device,deployment_ring,start_time,desktop_time,result,failure_stage
+AP-LAB-001,pilot,2026-09-01T08:00:00Z,2026-09-01T08:32:00Z,success,
+AP-LAB-002,pilot,2026-09-01T08:05:00Z,2026-09-01T08:44:00Z,success,
+AP-LAB-003,pilot,2026-09-01T08:10:00Z,,failed,required-app
+AP-LAB-004,production,2026-09-10T09:00:00Z,2026-09-10T09:29:00Z,success,
+AP-LAB-005,production,2026-09-10T09:10:00Z,2026-09-10T09:46:00Z,success,
+AP-LAB-006,production,2026-09-10T09:15:00Z,,failed,policy
+AP-LAB-007,production,2026-09-11T10:00:00Z,2026-09-11T10:27:00Z,success,
