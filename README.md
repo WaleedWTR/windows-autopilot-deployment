@@ -1,5 +1,7 @@
 # Windows Autopilot Deployment
 
+![Deployment analytics tests](https://github.com/WaleedWTR/windows-autopilot-deployment/actions/workflows/tests.yml/badge.svg)
+
 A portfolio deployment-engineering project covering Windows Autopilot readiness, deployment-profile design, Enrollment Status Page controls, rollout rings and troubleshooting.
 
 > **Portfolio note:** All devices, deployment events and policy examples are synthetic.
@@ -42,6 +44,14 @@ User desktop
       v
 Post-build validation
 ```
+
+## Key documentation
+
+- [Deployment plan](docs/deployment-plan.md)
+- [Troubleshooting guide](docs/troubleshooting.md)
+- [Autopilot profile specification](profiles/autopilot-profile-spec.json)
+- [Enrollment Status Page specification](profiles/enrollment-status-page-spec.json)
+- [Technical references](docs/references.md)
 
 ## Skills demonstrated
 
